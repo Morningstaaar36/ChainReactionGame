@@ -1,0 +1,14 @@
+AI Move:
+Status: BLUE_WINS
+Current Player: BLUE
+Red Has Played: true
+Blue Has Played: true
+1B 2B 2B 1B 1B 1B
+2B 1B 2B 2B 3B 2B
+2B 1B 0 4B 2B 1B
+1B 3B 2B 1B 1B 2B
+1B 0 1B 3B 0 1B
+2B 1B 1B 3B 3B 2B
+1B 2B 2B 0 2B 2B
+2B 2B 3B 3B 0 2B
+1B 1B 2B 1B 1B 1B
